@@ -1,0 +1,59 @@
+body main section article #about-me h1 {
+    font-family: 'Patrick Hand';
+    text-align: center;
+}
+
+body main section article #about-me img {
+    text-align: center;
+}
+
+body main section article .row .prsnl-inf h3 {
+    font-family: 'Patrick Hand';
+    text-align: center;
+    font-weight: bold;
+}
+
+body main section article .row .prsnl-inf table {
+    font-family: 'Patrick Hand';
+    font-size: 20px;
+}
+
+body main section article .row .prsnl-inf2 h3 {
+    font-family: 'Patrick Hand';
+    text-align: center;
+    font-weight: bold;
+}
+
+body main section article .row .prsnl-inf2 p {
+    text-align: center;
+}
+
+body main section article .prsnl-isi h5 {
+    margin-top: 10px;
+    text-align: center;
+    font-weight: bold;
+}
+
+body main section article .prsnl-isi p {
+    text-align: justify;
+}
+
+body main section article .prsnl-isi p span {
+    font-weight: bold;
+}
+
+body main section article .prsnl-isi2 h5 {
+    margin-top: 10px;
+    text-align: center;
+    font-weight: bold;
+}
+
+body main section article .container .row {
+    margin-bottom: 20px;
+}
+
+body main section article .container .row .prsnl-isi3 h5 {
+    margin-top: 10px;
+    text-align: center;
+    font-weight: bold;
+}

@@ -1,0 +1,166 @@
+body header nav .container-fluid div.collapse ul li:hover {
+    background-color: rgb(211, 211, 211);
+}
+
+
+body header div.container-fluid .carousel-item .carousel-caption a.color {
+    color: white;
+}
+
+body header .carousel-inner .carousel-item .carousel-caption a h5 {
+    font-family: Helvetica;
+    text-shadow: 1px 3px 2px black;
+    font-weight: bold;
+}
+
+body header .carousel-inner .carousel-item .carousel-caption a h5:hover {
+    color: rgba(255, 255, 255, 0.664);
+}
+
+body header .carousel-inner .carousel-item .carousel-caption p {
+    word-spacing: 5px;
+    text-shadow: 1px 1px 1px black;
+}
+
+body main section article .row .lnk {
+    margin-top: 20px;
+}
+
+body main section article .row .lnk .card .card-text {
+    text-align: justify;
+}
+
+body main section article .row .lnk .card .pblsh p {
+    color: rgba(129, 129, 129, 0.342);
+    text-align: right;
+    font-size: 12px;
+}
+
+body main section article .row .lnk .card .card-body a:hover {
+    background-color: rgb(255, 255, 255);
+    color: black;
+}
+
+body main section article .row .vide-em h1 {
+    font-family: 'Patrick Hand';
+}
+
+body main section article .row .vide-em p {
+    text-align: justify;
+    margin-top: 15px;
+}
+
+body main section article .row .sd-br h2 {
+    text-align: center;
+    font-family: 'Patrick Hand';
+    font-size: 36px;
+}
+
+body main section article .row .sd-br h3 {
+    font-family: 'Patrick Hand';
+    font-size: 18px;
+    text-align: center;
+    font-weight: 800;
+}
+
+body main section article .row .sd-br ul li a {
+    text-decoration: none;
+    color: black;
+}
+
+body main section article .row .sd-br ul li a:hover {
+    color: blue;
+}
+
+body main section article .row .sd-br .frm-sgn span {
+    color: green;
+}
+
+body main section article .row .sd-br .frm-sgn .center {
+    text-align: center;
+}
+
+body footer .ftr-clr {
+    background-color: rgb(245, 241, 241);
+}
+
+body footer .ftr-clr .row .ftr-bks .row .ftr-rght .smd-img a {
+    text-decoration: none;
+    margin-left: 5px;
+    color: black;
+}
+
+body footer .ftr-clr .row .ftr-bks .row .ftr-rght .smd-img a:hover {
+    color: blue;
+}
+
+body footer .ftr-clr .row .bg-wht {
+    background-color: white;
+}
+
+body footer .ftr-clr .row .container .img-cntr {
+    text-align: center;
+}
+
+body footer .ftr-clr .row .container h4 {
+    font-family: Helvetica;
+    text-align: center;
+}
+
+body footer .ftr-clr .row .container p {
+    font-family: Helvetica;
+    text-align: center;
+}
+
+body footer .ftr-clr .row .container p span {
+    color: greenyellow;
+}
+
+body footer .ftr-clr .row .container h5 {
+    font-family: 'Patrick Hand';
+    font-size: 18px;
+    padding: 10px;
+}
+
+body footer .ftr-clr .row .container .almt {
+    list-style-type: none;
+}
+
+body footer .ftr-clr .row .Copyright {
+    background-color: white;
+    text-align: center;
+}
+
+/* CSS Stylesheet untuk page Post */
+
+/* CSS Stylesheet untuk Page Post 1 */
+
+body main section article .dtl-pst h1 {
+    font-family: 'Patrick Hand';
+    margin: 0;
+}
+
+body main section article .dtl-pst p {
+    margin: 0;
+    padding-top: 4px;
+    font-size: 12px;
+    color: rgba(0, 0, 0, 0.596);
+}
+
+body main section article .dtl-pst p img {
+    margin-bottom: 6px;
+}
+
+body main section article .dtl-pst p img.img-mrg {
+    margin-bottom: 1px;
+}
+
+body main section article .row .card .card-body p {
+    text-align: justify;
+    font-size: 18px;
+}
+
+body main section article .row .card .card-body p strong {
+    font-size: 22px;
+    margin-left: 10px;
+}
